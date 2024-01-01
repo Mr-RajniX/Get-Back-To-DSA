@@ -1,2 +1,2 @@
-# Get-Back-To-DSA
-Make self proud :)
+# Get-Back-To-DSA </>
+*Let's Make self proud :)*
