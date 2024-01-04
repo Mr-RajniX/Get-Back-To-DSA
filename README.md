@@ -5,7 +5,7 @@
 For this I have created a new GFG & Code studio account for starting over.  
 For brush-up, I will solve school & basic / easy level questions on coding platforms. 
 ```
-**Road-map** :-  
+**Roadmap** :-  
 | Platforms | Brush-Up🖌️ | Pro ʕ•ᴥ•ʔ | Pro-Ultra🧸 |
 | :-------: | :---------: | :------: | :----------: |
 | GeeksforGeeks | School & Basic | Easy & Medium | Hard |
@@ -20,4 +20,4 @@ For brush-up, I will solve school & basic / easy level questions on coding platf
 | LeetCode | <a href="https://leetcode.com/Mr-RajniX/" target="_blank">GoTo↗</a> | ❌ |
 
 <!-- <mark>**Progress-Bar**</mark> :- -->
-
+=> Lastly I have one more thing for you 😉 <a href="https://xmind.ai/share/a4I4hTc3?xid=KhvQeZsI" target="_blank"> goHere↗</a> Trust me you love that :)
