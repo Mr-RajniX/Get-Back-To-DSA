@@ -7,7 +7,7 @@ For brush-up, I will solve school & basic / easy level questions on coding platf
 ```
 **Road-map** :-  
 | Platforms | Brush-Up🖌️ | Pro ʕ•ᴥ•ʔ | Pro-Ultra🧸 |
-| --------- | ----------- | --------- | ----------- |
+| :-------: | :---------: | :------: | :----------: |
 | GeeksforGeeks | School & Basic | Easy & Medium | Hard |
 | Code Studio | Easy | Moderate | Hard+ninja |
 | LeetCode | ❌ | Easy+Medium | Hard |
